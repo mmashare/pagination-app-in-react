@@ -1,0 +1,32 @@
+.parent{
+  margin-top: 100px;
+}
+
+.heading{
+  text-align: center;
+}
+td.errorData{
+  
+  text-align: left;
+  color: red;
+ 
+
+}
+
+.paginationSection{
+  display: inline-block;
+  padding: 10px;
+  margin-left : 500px;
+}
+
+p.NumberOfPage{
+  position: relative;
+  top: 7px;
+  padding-right:25px ;
+}
+/* td.noDataFound{
+  align-items: center;
+  margin-right: 250px;
+  padding-right: 50px;
+  text-align: right;
+} */

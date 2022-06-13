@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "name": "conar",
+      "email": "conar12468@gmail.com",
+      "phone": "9312147985",
+      "address": "isrish",
+      "id": 3,
+      "status": "Notactive"
+    },
+    {
+      "name": "khabib",
+      "email": "khabib12468@gmail.com",
+      "phone": "9312147981",
+      "address": "russia",
+      "id": 4,
+      "status": "Notactive"
+    },
+    {
+      "name": "israel",
+      "email": "israel12468@gmail.com",
+      "phone": "9312147982",
+      "address": "new zealand",
+      "id": 5,
+      "status": "Active"
+    },
+    {
+      "name": "jon jones",
+      "email": "jonjones12468@gmail.com",
+      "phone": "9312147983",
+      "address": "us",
+      "id": 6,
+      "status": "Notactive"
+    },
+    {
+      "name": "colby",
+      "email": "colby12468@gmail.com",
+      "phone": "9312147984",
+      "address": "us",
+      "id": 7,
+      "status": "Active"
+    },
+    {
+      "name": "masvidal",
+      "email": "masvidal12468@gmail.com",
+      "phone": "9312147985",
+      "address": "us",
+      "id": 8,
+      "status": "Active"
+    },
+    {
+      "name": "usman",
+      "email": "usman12468@gmail.com",
+      "phone": "9312147986",
+      "address": "niegria",
+      "id": 9,
+      "status": "Active"
+    },
+    {
+      "name": "charles",
+      "email": "charles12468@gmail.com",
+      "phone": "9312147987",
+      "address": "brasil",
+      "id": 10,
+      "status": "Active"
+    },
+    {
+      "name": "justin",
+      "email": "justin12468@gmail.com",
+      "phone": "9312147988",
+      "address": "us",
+      "id": 11,
+      "status": "Active"
+    },
+    {
+      "name": "dustin",
+      "email": "dustin12468@gmail.com",
+      "phone": "9312147989",
+      "address": "us",
+      "id": 12,
+      "status": "Active"
+    },
+    {
+      "name": "cody",
+      "email": "cody12468@gmail.com",
+      "phone": "93121479810",
+      "address": "us",
+      "id": 13,
+      "status": "Notactive"
+    }
+  ]
+}
